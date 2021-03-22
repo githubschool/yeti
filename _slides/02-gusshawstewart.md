@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Liverpool rules!
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
